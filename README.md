@@ -21,7 +21,7 @@ Skills are system prompts for Claude Projects that give Claude specialized capab
 
 ## About Mutual Intelligence™
 
-Mutual Intelligence is an AI operationalization framework for small-to-mid-market companies and marketing professionals. Learn more at [AI Marketing Forum](https://www.skool.com/ai-marketing-forum).
+Mutual Intelligence is an AI operationalization framework for small-to-mid-market companies and marketing professionals. Learn more at [MutualIntelligence.ai](https://mutualintelligence.ai).
 
 ---
 
