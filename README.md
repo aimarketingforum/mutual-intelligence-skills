@@ -1,6 +1,6 @@
 # Mutual Intelligence Skills Library
 
-A growing collection of Claude Skills built on the Mutual Intelligence™ framework by Jason Cormier, founder of [AI Marketing Forum (AIMF)](https://www.skool.com/ai-marketing-forum).
+A growing collection of Claude Skills built on the Mutual Intelligence™ framework by Jason Cormier, founder of [Mutual Intelligence](https://mutualintelligence.ai) and the AI Marketing Forum (AIMF).
 
 ## What Are Skills?
 
@@ -9,9 +9,8 @@ Skills are system prompts for Claude Projects that give Claude specialized capab
 ## How to Install a Skill
 
 1. Download the `SKILL.md` file from the skill folder you want
-2. Open Claude and create a new Project
-3. Paste the contents of `SKILL.md` into the Project instructions
-4. Start using it
+2. Upload the SKILL.md file at the start of a new Claude chat (recommended), or paste the contents of the skill if you prefer
+3. Start using it
 
 ## Available Skills
 
@@ -21,8 +20,10 @@ Skills are system prompts for Claude Projects that give Claude specialized capab
 
 ## About Mutual Intelligence™
 
-Mutual Intelligence is an AI operationalization framework for small-to-mid-market companies and marketing professionals. Learn more at [MutualIntelligence.ai](https://mutualintelligence.ai).
+Mutual Intelligence is an AI operationalization framework for small-to-mid-market companies and marketing professionals.
+
+To learn more, visit [mutualintelligence.ai](https://mutualintelligence.ai).
 
 ---
 
-*More skills added regularly. Follow Jason Cormier on [LinkedIn](https://www.linkedin.com/in/jasoncormier) for updates.*
+*More skills added regularly. Follow Jason Cormier on [LinkedIn](https://www.linkedin.com/in/aimarketingforum) for updates.*
