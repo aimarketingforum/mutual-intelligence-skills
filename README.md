@@ -1,6 +1,6 @@
 # Mutual Intelligence Skills Library
 
-A growing collection of Claude Skills built on the Mutual Intelligence™ framework by Jason Cormier, founder of [Mutual Intelligence](https://mutualintelligence.ai) and the AI Marketing Forum (AIMF).
+A growing collection of Claude Skills built on the Mutual Intelligence™ framework by Jason and Isaiah Cormier, co-founders of [Mutual Intelligence](https://mutualintelligence.ai) and the AI Marketing Forum (join the commmunity at https://skool.com/aimarketing).
 
 ## What Are Skills?
 
@@ -20,7 +20,7 @@ Skills are system prompts for Claude Projects that give Claude specialized capab
 
 ## About Mutual Intelligence™
 
-Mutual Intelligence is an AI operationalization framework for small-to-mid-market companies and marketing professionals.
+Mutual Intelligence is an AI operations framework and consultancy that helps lean team make marketing and operations more profitable and enjoyable through AI systems people happily use within 30 days.
 
 To learn more, visit [mutualintelligence.ai](https://mutualintelligence.ai).
 
