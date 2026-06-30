@@ -17,6 +17,7 @@ Skills are system prompts for Claude Projects that give Claude specialized capab
 | Skill | Description | Cycle |
 |---|---|---|
 | [clarity-brief-generator](./clarity-brief-generator/SKILL.md) | Generates a complete Clarity Brief through a structured interview process. Exports a ready-to-use .md file for Claude Code or automation platforms. | Clarify |
+| [clean-room-adaptation](./clean-room-adaptation/SKILL.md) | Walks you through learning from someone else's AI skill, prompt, or template and rebuilding your own version — without copying it. | Build |
 
 ## About Mutual Intelligence™
 
